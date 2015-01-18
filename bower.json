@@ -1,27 +1,27 @@
 {
-  'name': 'ng-konami',
-  'version': '0.0.1',
-  'authors': [
-    'Ellen Wondra-Lindley <shanghaiellen@gmail.com>'
+  "name": "ng-konami",
+  "version": "0.0.1",
+  "authors": [
+    "Ellen Wondra-Lindley <shanghaiellen@gmail.com>"
   ],
-  'description': 'A simple AngularJS konami directive',
-  'main': 'directive.js',
-  'keywords': [
-    'angular',
-    'angularjs',
-    'konami',
-    'directive'
+  "description": "A simple AngularJS konami directive",
+  "main": "directive.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "konami",
+    "directive"
   ],
-  'license': 'MIT',
-  'homepage': 'https://github.com/shanghaiellen/ng-konami',
-  'ignore': [
-    '**/.*',
-    'node_modules',
-    'bower_components',
-    'test',
-    'tests'
+  "license": "MIT",
+  "homepage": "https://github.com/shanghaiellen/ng-konami",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
-  'dependencies': {
-    'angular': '~1.3.8'
+  "dependencies": {
+    "angular": "~1.3.8"
   }
 }
